@@ -8,7 +8,6 @@ english_words=set(words.words())
 
 typos={
     '5': 's',
-  
     'e': 'c',
     'c': 'e',
     '1': 'l',
